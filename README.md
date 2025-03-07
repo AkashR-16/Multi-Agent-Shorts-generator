@@ -21,7 +21,7 @@ Multi-Agent-Shorts-generator/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/AkashR-16/Shorts-Style-Multi-Agent-System.git
+git clone https://github.com/AkashR-16/Multi-Agent-Shorts-generator.git
 cd Multi-Agent-Shorts-generator
 ```
 
