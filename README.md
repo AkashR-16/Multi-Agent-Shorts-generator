@@ -21,8 +21,8 @@ ai-shorts-creator/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-link>
-cd ai-shorts-creator
+git clone https://github.com/AkashR-16/Shorts-Style-Multi-Agent-System.git
+cd Multi-Agent-Shorts-generator
 ```
 
 ### 2️⃣ Create & Activate a Virtual Environment
