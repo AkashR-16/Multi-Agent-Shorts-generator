@@ -10,7 +10,7 @@ This repository contains a multi agent system for generating short videos with e
 
 ## 📂 Folder Structure
 ```
-ai-shorts-creator/
+Multi-Agent-Shorts-generator/
 │── tools.py               # Utility functions for text-to-speech and video generation
 │── main.py                # Entry point for running the workflow
 │── requirements.txt       # Dependencies for the project
